@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/NMN-to-Beep/build",
+  "command": "/usr/bin/clang++    -g   -o CMakeFiles/NMN-to-Beep.dir/main.cpp.o -c /workspaces/NMN-to-Beep/main.cpp",
+  "file": "/workspaces/NMN-to-Beep/main.cpp"
+}
+]
